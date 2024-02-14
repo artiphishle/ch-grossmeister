@@ -1,3 +1,11 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    body {
+      background: #000;
+    }
+  }
+}
+
 html,
 body {
   height: 100%;
