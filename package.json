@@ -1,0 +1,29 @@
+{
+  "name": "ch-grossmeister",
+  "version": "1.0.0",
+  "description": "GrossMeister.ch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artiphishle/ch-grossmeister.git"
+  },
+  "keywords": [
+    "ankhorage",
+    "ankh",
+    "grossmeister",
+    "gm",
+    "chess"
+  ],
+  "author": "artiphishle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artiphishle/ch-grossmeister/issues"
+  },
+  "homepage": "https://github.com/artiphishle/ch-grossmeister#readme",
+  "dependencies": {
+    "ankh-cms": "^1.0.0"
+  }
+}
